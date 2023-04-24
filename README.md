@@ -3,7 +3,7 @@ a demo for ros and qt5 in ubuntu20.04 ros noetic
 
 进入ros_qt_demo 文件夹，创建build文件夹
 ```shell
-ros2_ws01/src/ros2_qt_demo$ tree
+ros_ws01/src/ros_qt_demo$ tree
 .
 ├── build
 ├── CMakeLists.txt
